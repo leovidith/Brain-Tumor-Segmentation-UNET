@@ -61,7 +61,8 @@ We implement a **U-Net architecture** because:
 * *Skip connections* fuse semantic information with spatial precision, critical for medical segmentation tasks
 * Together, they enable **precise, data-efficient learning** even with limited annotated medical data, ensuring robust tumor localization across patients and MRI modalities
 
-### Component-Level Architecture – Brain Tumor Segmentation (U-Net)
+<br>
+
 ```mermaid
 flowchart TD
     A0["Training Pipeline"]
@@ -109,7 +110,7 @@ flowchart TD
     A14 --> A16
     A14 --> A17
 ```
----
+<h3 align="center">Flow Chart: Component-Level Architecture – Brain Tumor Segmentation (U-Net)</h3>
 
 ## Results 
 | Metric                  | Value    |
