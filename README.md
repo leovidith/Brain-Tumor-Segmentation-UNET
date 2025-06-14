@@ -1,4 +1,4 @@
-# Brain Tumor MRI Segmentation Using U-Net | Deep Learning for Medical Image
+# Brain Tumor MRI Segmentation Using U-Net | Deep Learning for 
 
 ## Overview
 A state-of-the-art deep learning pipeline using U-Net for precise brain tumor segmentation from MRI scans. Leveraging medical image processing, data augmentation, and TensorFlow/Keras, this project enables accurate detection of gliomas, meningiomas, and pituitary tumors—ideal for healthcare AI research and diagnostic automation.
